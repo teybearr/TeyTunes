@@ -1,2 +1,4 @@
 # TeyTunes
-A cash register code as a requirement for our course: Computer Programming 2
+A Cash Register Coding Project as a requirement for the course: Computer Programming 2
+
+hi po sir
