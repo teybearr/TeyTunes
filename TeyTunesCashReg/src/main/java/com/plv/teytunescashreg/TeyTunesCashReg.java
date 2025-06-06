@@ -165,7 +165,6 @@ public class TeyTunesCashReg {
                     String formattedDate = myDateObj.format(myFormatObj);
                     
                     try (BufferedWriter writer = new BufferedWriter(new FileWriter("transactions.txt", true))) {
-//                        writer.write("\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
                         writer.write("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n");
                         writer.write("                       TEYTUNES\n");
                         writer.write("                    DLSL, LIPA CITY\n");
