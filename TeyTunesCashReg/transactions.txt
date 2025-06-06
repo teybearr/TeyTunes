@@ -1,0 +1,56 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                       TEYTUNES
+                    DLSL, LIPA CITY
+                      Cashier: Tey
+                 Jun 06, 2025 18:04:38
+   -----------------------------------------------
+                  ORDER DETAILS
+
+   PHP 2180.0 | 2x | Bloom - Troye Sivan
+   PHP 2130.0 | 3x | Awe - XG
+   PHP 1090.0 | 1x | Bloom - Troye Sivan
+   PHP 2780.0 | 2x | Jazz - Queen
+   -----------------------------------------------
+   GRAND TOTAL: PHP 7850.0
+
+   CASH: PHP 8000.0
+   CHANGE: PHP 150.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                       TEYTUNES
+                    DLSL, LIPA CITY
+                      Cashier: Tey
+                 Jun 06, 2025 18:43:08
+   -----------------------------------------------
+                  ORDER DETAILS
+
+   PHP 1280.0 | 2x | Glide - Fiji Blue
+   PHP 2500.0 | 2x | Jazz - Queen
+   PHP 1390.0 | 1x | Justice - Justin Bieber
+   PHP 10080.0 | 9x | Requiem - Keshi
+   -----------------------------------------------
+   GRAND TOTAL: PHP 15250.0
+
+   CASH: PHP 16000.0
+   CHANGE: PHP 750.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                       TEYTUNES
+                    DLSL, LIPA CITY
+                      Cashier: Tey
+                 Jun 06, 2025 18:44:55
+   -----------------------------------------------
+                  ORDER DETAILS
+
+   PHP 5075.0 | 7x | Asterum - PLAVE
+   PHP 5900.0 | 5x | No Genre - BOYNEXTDOOR
+   PHP 5340.0 | 6x | Go in Blind - &TEAM
+   PHP 2120.0 | 2x | HOT - LE SSERAFIM
+   PHP 970.0 | 1x | Awe - XG
+   PHP 5920.0 | 4x | Be - BTS
+   -----------------------------------------------
+   GRAND TOTAL: PHP 25325.0
+
+   CASH: PHP 25325.0
+   CHANGE: PHP 0.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
